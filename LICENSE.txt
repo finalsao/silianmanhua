@@ -1,1 +1,6 @@
 啥啊这都是个啥啊
+git remote add origin git@github.com:finalsao/silianmanhua.git
+git remote add origin  https://github.com/finalsao/silianmanhua.git
+git remote add origin  https://github.com/finalsao/silianmanhua.git
+
+git remote add origin git@github.com:finalsao/silianmanhua.git
